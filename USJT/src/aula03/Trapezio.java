@@ -15,4 +15,5 @@ public class Trapezio extends Poligono {
 	public double perimetro() {
 		return (b + bMenor + 2) * (Math.sqrt((h * h) + (bMenor - b) * (bMenor - b)) / 4);
 	}
+	
 }// end class Trapezio

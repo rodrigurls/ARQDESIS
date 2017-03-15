@@ -20,4 +20,5 @@ public class Cubo extends Objetos implements Volume {
 	public double volume() {
 		return comprimento * largura * h;
 	}
+	
 }// end Class Cubo

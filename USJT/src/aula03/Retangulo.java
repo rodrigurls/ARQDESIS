@@ -20,4 +20,5 @@ public class Retangulo extends Poligono implements Diagonal {
 	public double perimetro() {
 		return (b * 2) + (h * 2);
 	}
+	
 }// end class Retangulo

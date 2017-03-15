@@ -25,6 +25,7 @@ public abstract class Objetos extends Figura {
 	public double area() {
 		return this.area;
 	}
+	
 
 	public abstract double volume();
 }// end abstract class Objetos

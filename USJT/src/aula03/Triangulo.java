@@ -16,4 +16,5 @@ public class Triangulo extends Poligono {
 		return b + h + (Math.pow(Math.pow(b, 2) + Math.pow(h, 2), 0.5));
 	}
 
+	
 }// end class

@@ -18,6 +18,7 @@ public class Piramide extends Objetos implements Volume {
 
 	@Override
 	public double volume() {
-		return (comprimento * largura * h) / 3;
+		return comprimento*largura*h*(1/3);
 	}
+	
 }// end class Piramide

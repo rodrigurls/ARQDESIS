@@ -31,6 +31,7 @@ public abstract class Poligono extends Figura {
 		this.b = b;
 	}
 
+	
 	// get's
 	public double geth() {
 		return this.h;

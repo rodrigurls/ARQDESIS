@@ -21,4 +21,5 @@ public class Quadrado extends Poligono implements Diagonal {
 		return (b * 4);
 	}
 
+	
 }// end class

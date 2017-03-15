@@ -16,4 +16,5 @@ public class Losango extends Poligono {
 		return hipotenusa * 4;
 	}
 
+	
 }// end class Losango

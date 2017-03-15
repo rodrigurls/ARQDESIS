@@ -29,5 +29,6 @@ public class Geometria {
 			}
 			System.out.println("\n");
 		} // end for
+		
 	}// end main
 }// end class Geometria

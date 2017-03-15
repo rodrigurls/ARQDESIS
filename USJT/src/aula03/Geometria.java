@@ -13,6 +13,8 @@ public class Geometria {
 		figuras.add(new Quadrado("Quadrado", 4));
 		figuras.add(new Cubo("Cubo", 4, 4, 4));
 		figuras.add(new Retangulo("Retângulo", 4, 8));
+		figuras.add(new Losango("Losango", 5, 7)); 
+		figuras.add(new	Trapezio("Trapézio", 2, 5, 7));
 		for (Figura fig : figuras) {
 			System.out.println(fig.getTipo());
 			System.out.println("Área: " + fig.area());
